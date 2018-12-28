@@ -1,0 +1,44 @@
+[
+    {
+        "id":1,
+        "name":"Võ Vĩnh Lộc",
+        "tel":"0908407321",
+        "permission":"1"        
+    },
+    {
+        "id":2,
+        "name":"2Võ Vĩnh Lộc",
+        "tel":"0908407321",
+        "permission":"2"        
+    },
+    {
+        "id":3,
+        "name":"3Võ Vĩnh Lộc",
+        "tel":"0908407321",
+        "permission":"3"        
+    },
+    {
+        "id":4,
+        "name":"4Võ Vĩnh Lộc",
+        "tel":"0908407321",
+        "permission":"1"        
+    },
+    {
+        "id":5,
+        "name":"Võ Vĩnh Lộc",
+        "tel":"0908407321",
+        "permission":"1"        
+    },
+    {
+        "id":6,
+        "name":"6Võ Vĩnh Lộc",
+        "tel":"0908407321",
+        "permission":"1"        
+    },
+    {
+        "id":7,
+        "name":"7Võ Vĩnh Lộc",
+        "tel":"0908407321",
+        "permission":"1"        
+    }
+]
